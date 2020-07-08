@@ -1,1 +1,3 @@
 "Dummy file to perform Git operations" 
+
+"I am making change to compare between master and origin master"
