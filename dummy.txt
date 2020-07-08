@@ -1,3 +1,4 @@
 "Dummy file to perform Git operations" 
 
 "I am making change to compare between master and origin master"
+"This line is addition to show Merge behavior on a branch"
