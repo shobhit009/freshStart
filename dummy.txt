@@ -2,5 +2,6 @@
 
 "I am making change to compare between master and origin master"
 "This line is addition to show Merge behavior on a branch"
+"Changes made on Git "
 
 "This is to demonstrate how to disble fast worward merge"
