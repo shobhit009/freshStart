@@ -8,3 +8,4 @@
 
 "Changes made to have clear understanding of pull and push"
 "Changes made on Local branch"
+"Made locally"
