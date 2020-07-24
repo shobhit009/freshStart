@@ -5,3 +5,5 @@
 "Changes made on Git "
 
 "This is to demonstrate how to disble fast worward merge"
+
+"Changes made to have clear understanding of pull and push"
